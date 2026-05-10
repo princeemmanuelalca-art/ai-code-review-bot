@@ -1,4 +1,4 @@
-# 🤖 AI Code Review Bot
+#  AI Code Review Bot
 
 An automated code review system using GitHub Actions, PyGithub, and Groq's LLaMA 3.3 70B model.
 
@@ -60,7 +60,7 @@ Edit `SYSTEM_PROMPT` in `review.py` to adjust review criteria or output format.
 ## Example Output
 
 ```markdown
-## 🤖 AI Code Review
+##  AI Code Review
 
 ## Summary
 This PR introduces a new authentication middleware and updates user validation logic. Overall good structure but has critical security concerns.
